@@ -1,0 +1,15 @@
+.button-container{
+    display:grid;
+    grid-template-columns: 60px 60px 60px 60px;
+    grid-template-rows: 50px 50px 50px 50px 50px;
+    grid-gap:10px;
+}
+.arith{
+    background-color: orange;
+}
+.clear{
+    grid-column: 1/5;
+}
+button{
+    border:none;
+}

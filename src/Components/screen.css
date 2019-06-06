@@ -1,0 +1,15 @@
+.screen{
+    
+    
+}
+.input{
+    background-color: wheat;
+    display: flex;
+    height:50px;
+    justify-content: flex-end;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2em;
+    border: 1px solid gray;
+    padding: 3px 2px 3px 0;
+}
